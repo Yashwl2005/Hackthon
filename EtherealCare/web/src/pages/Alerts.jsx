@@ -1,5 +1,5 @@
 import React from 'react';
-import { AlertTriangle, MapPin, Loader2, ArrowRight } from 'lucide-react';
+import { AlertTriangle, MapPin, Loader2, ArrowRight, CheckCircle2 } from 'lucide-react';
 
 const Alerts = () => {
   return (
@@ -115,8 +115,5 @@ const Alerts = () => {
     </div>
   );
 };
-
-// CheckCircle2 icon missing locally in Alerts block, using Lucide
-import { CheckCircle2 } from 'lucide-react';
 
 export default Alerts;

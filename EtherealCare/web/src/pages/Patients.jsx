@@ -1,5 +1,5 @@
 import React from 'react';
-import { Filter, UserCircle2, MoreVertical } from 'lucide-react';
+import { Filter, UserCircle2, MoreVertical, AlertTriangle } from 'lucide-react';
 
 const patients = [
   { id: '#8821-XP', name: 'Eleanor Martin', age: 74, status: 'Active', adherence: 92, initial: 'EM' },
